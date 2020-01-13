@@ -1,3 +1,7 @@
+package 线程;
+
+import 线程.Person;
+
 /**
  * @author NiDingbo
  * @date 2020/1/8

@@ -1,3 +1,5 @@
+import java.util.Collections;
+
 /**
  * @author NiDingbo
  * @date 2020/1/9
@@ -13,6 +15,8 @@ public class test {
         public Person(String name) {
             this.name = name;
         }
+
+        BINARYSEARCH_THRESHOLD
     }
 
 
