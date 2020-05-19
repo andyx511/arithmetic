@@ -7,18 +7,7 @@ import java.util.Collections;
  */
 
 public class test {
-    class Person {
-
-        String name = "do1";
-        String age = "12";
-
-        public Person(String name) {
-            this.name = name;
-        }
-
-        BINARYSEARCH_THRESHOLD
+    public static void main(String []ars){
+        System.out.println("sdasd");
     }
-
-
-
 }
